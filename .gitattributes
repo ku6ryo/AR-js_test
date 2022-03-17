@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.glb binary
+*.iset binary
+*.fset binary
+*.fset3 binary
